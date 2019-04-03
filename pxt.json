@@ -1,0 +1,26 @@
+{
+    "name": "SSD1306_OLED",
+    "version": "0.0.1",
+    "description": "SSD1306 OLED液晶micro:bit pxt扩展包",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "ssd1306.ts",
+        "SSD1306_OLED.cpp",
+        "Adafruit_SSD1306.h",
+        "Adafruit_SSD1306.cpp",
+        "Adafruit_GFX.h",
+        "Adafruit_GFX.cpp",
+        "Adafruit_GFX_Config.h",
+        "glcdfont.h",
+        "enums.d.ts",
+        "_locales/zh/SSD1306_OLED-strings.json"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true
+}
