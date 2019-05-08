@@ -27,7 +27,7 @@ namespace OLED {
     }
 
     /**
-     *显示一个缓存屏幕
+     *填充屏幕屏幕
      */
     //% blockId=oled_loading_screen
     //% block="show loading screen"
@@ -175,7 +175,7 @@ namespace OLED {
 
     /**
      * @param progress current progress
-     * Show a progress bar with specified percentage of progress
+     * 显示进度条
      */
     //% blockId=oled_show_progress
     //% block="show progress of percentage progress %progress|"

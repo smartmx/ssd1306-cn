@@ -1,6 +1,6 @@
 {
     "name": "SSD1306_OLED",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "SSD1306 OLED液晶micro:bit pxt扩展包",
     "license": "MIT",
     "dependencies": {

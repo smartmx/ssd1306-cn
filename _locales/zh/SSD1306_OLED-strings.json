@@ -2,7 +2,7 @@
     "OLED|block": "OLED液晶",
     "OLED.init|block": "OLED初始化为高度 %height|宽度 %width",
     "OLED.nextLine|block": "换行输出",
-    "OLED.loadingScreen|block": "显示一个缓存屏幕",
+    "OLED.loadingScreen|block": "填充OLED屏幕",
     "OLED.clear|block": "清除OLED屏幕",
     "OLED.showStringNoNewLine|block": "OLED显示|字符串 %text",
     "OLED.showStringWithNewLine|block": "OLED换行显示|字符串 %text",
@@ -11,8 +11,7 @@
     "OLED.drawCircle|block": "画圆 x %x|y %y|r %r",
     "OLED.fillCircle|block": "画填充圆 x %x|y %y|r %r",
     "OLED.drawLine|block": "画线 x1 %x1|y1 %y1|x2 %x2|y2 %y2",
-    "OLED.Loading_Screen|block": "显示OLED缓存屏幕",
     "OLED.drawRectangle|block": "画矩形 x %x|y %y|w %w|h %h",
     "OLED.fillRectangle|block": "画填充矩形 x %x|y %y|w %w|h %h",
-    "OLED.showProgress|block": "显示进程"
+    "OLED.showProgress|block": "显示进度条 %progress|百分比"
 }
